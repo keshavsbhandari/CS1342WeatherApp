@@ -2,6 +2,7 @@
 
 def format_weather_data(processed_data):
     # Format the weather data for display
+    
     formatted_data = (
         f"Weather in {processed_data['location']}:\n"
         f"Condition: {processed_data['condition']}\n"

@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = "1b93fabfbc584063bc9180022240511"
+API_KEY = "18559c9e27cd41d6bd4165313252910"
 # How to get an API Key
 # Step 1: Signup @: https://www.weatherapi.com/
 # Step 2: Verify your email (Click the link you get after signup)
